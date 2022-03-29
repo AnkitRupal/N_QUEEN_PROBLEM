@@ -2,7 +2,7 @@
 *	N QUEENS PROBLEM
 *	
 *	TIME COMPLEXITY  :  O(n!)
-*	SPACE COMPLEXITY :  O(n^2)
+*	SPACE COMPLEXITY :  O(n)
 *
 */
 #include "bits/stdc++.h"
