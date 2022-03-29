@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+SOURCE_CODE/input.txt
+SOURCE_CODE/output.txt
+.gitignore
